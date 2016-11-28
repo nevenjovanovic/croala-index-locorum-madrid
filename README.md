@@ -2,7 +2,7 @@
 
 [Neven Jovanović](orcid.org/0000-0002-9119-399X), Odsjek za klasičnu filologiju Filozofskog fakulteta Sveučilišta u Zagrebu
 
-![Greek vase detail](referat/2016-jovanovic-polybius/img/polybius-vase.jpg)
+![Moždana stanica i robot](img/roboneuron.jpeg)
 
 ## Sadržaj
 
